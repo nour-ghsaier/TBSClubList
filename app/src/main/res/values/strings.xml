@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Final Ghsiaer</string>
+    <string name="act">Act To Impact</string>
+    <string name="act_des">we work together to provide the opportunity for kids to live a better life and create valuable memories.</string>
+    <string name="atlas">ATLAS</string>
+    <string name="atlas_des">Help guiding students down the right path to becoming leaders and successful entrepreneurs.</string>
+    <string name="enactus">Enactus</string>
+    <string name="enactus_des"> Enactus dedicated to creating positive social and economic change through entrepreneurship, innovation, and responsible leadership.</string>
+    <string name="jci">Junior Chamber International</string>
+    <string name="jci_des">Our aim is to develop our members skills and offer them leadership positions while making positive impact.</string>
+    <string name="je">TBS Junior Enterprise</string>
+    <string name="je_des">JE works closely with a network of Junior enterprises located in different universities.</string>
+    <string name="merit">Merit TBS</string>
+    <string name="merit_des">We aim to empower our members with the knowledge and skills needed to excel in the digital age.</string>
+    <string name="zero">3Zero Campus Club</string>
+    <string name="zero_des">Achieving zero poverty, exclusion and carbon through professional development and entrepreneurship.</string>
+    <string name="expand_button_content_description">See more or less information about a club.</string>
+
+
+</resources>
